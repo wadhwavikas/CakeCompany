@@ -1,0 +1,15 @@
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/bin/Debug/net6.0/CakeCompany
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/bin/Debug/net6.0/CakeCompany.deps.json
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/bin/Debug/net6.0/CakeCompany.runtimeconfig.json
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/bin/Debug/net6.0/CakeCompany.dll
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/bin/Debug/net6.0/CakeCompany.pdb
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/CakeCompany.csproj.AssemblyReference.cache
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/CakeCompany.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/CakeCompany.AssemblyInfoInputs.cache
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/CakeCompany.AssemblyInfo.cs
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/CakeCompany.csproj.CoreCompileInputs.cache
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/CakeCompany.dll
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/refint/CakeCompany.dll
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/CakeCompany.pdb
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/CakeCompany.genruntimeconfig.cache
+/Users/vikaswadhwa/Desktop/CakeCompany/CakeCompany/obj/Debug/net6.0/ref/CakeCompany.dll
